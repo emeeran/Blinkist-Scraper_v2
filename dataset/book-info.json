@@ -1,0 +1,79 @@
+{
+    "book": {
+        "id": "633c1d4f6cee0700081b479f",
+        "slug": "inflation-matters-en",
+        "title": "Inflation Matters",
+        "author": "Pete Comley",
+        "time": 19,
+        "cover": {
+            "default": {
+                "src": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/470.jpg",
+                "srcset": {
+                    "2x": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/640.jpg"
+                }
+            },
+            "sources": [
+                {
+                    "media": "xs",
+                    "src": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/470.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/640.jpg"
+                    }
+                },
+                {
+                    "media": "s",
+                    "src": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/640.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/1080.jpg"
+                    }
+                },
+                {
+                    "media": "m",
+                    "src": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/250.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/633c1d4f6cee0700081b479f/1_1/470.jpg"
+                    }
+                }
+            ]
+        },
+        "freeDaily": false
+    },
+    "chapters": [
+        {
+            "id": "633c1d4f6cee0700081b47a0",
+            "order_no": 0,
+            "action_title": "What’s in it for me? Understand the ins and outs of inflation – without the complicated jargon."
+        },
+        {
+            "id": "633c1d506cee0700081b47a1",
+            "order_no": 1,
+            "action_title": "Inflation is an increase in prices typically caused by an increase in the money supply."
+        },
+        {
+            "id": "633c1d506cee0700081b47a2",
+            "order_no": 2,
+            "action_title": "Inflation tends to follow a wave pattern, with prices rising, stabilizing, and then rising again."
+        },
+        {
+            "id": "633c1d506cee0700081b47a3",
+            "order_no": 3,
+            "action_title": "Governments and other debtors all benefit from inflation; savers are hurt by it."
+        },
+        {
+            "id": "633c1d506cee0700081b47a4",
+            "order_no": 4,
+            "action_title": "Continued, exponentially rising inflation may not be inevitable."
+        },
+        {
+            "id": "633c1d506cee0700081b47a5",
+            "order_no": 5,
+            "action_title": "Being aware of the inflation cycle can help you prepare for the future."
+        },
+        {
+            "id": "633c1d506cee0700081b47a6",
+            "order_no": 6,
+            "action_title": "Final summary"
+        }
+    ],
+    "current_chapter_id": "633c1d506cee0700081b47a5"
+}

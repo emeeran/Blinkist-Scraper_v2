@@ -1,0 +1,94 @@
+{
+    "book": {
+        "id": "5d1329986cee07000880dc26",
+        "slug": "who-will-cry-when-you-die-en",
+        "title": "Who Will Cry When You Die?",
+        "author": "Robin Sharma",
+        "time": 23,
+        "cover": {
+            "default": {
+                "src": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/470.jpg",
+                "srcset": {
+                    "2x": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/640.jpg"
+                }
+            },
+            "sources": [
+                {
+                    "media": "xs",
+                    "src": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/470.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/640.jpg"
+                    }
+                },
+                {
+                    "media": "s",
+                    "src": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/640.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/1080.jpg"
+                    }
+                },
+                {
+                    "media": "m",
+                    "src": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/250.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/5d1329986cee07000880dc26/1_1/470.jpg"
+                    }
+                }
+            ]
+        },
+        "freeDaily": false
+    },
+    "chapters": [
+        {
+            "id": "5d1329f46cee070007d74bc2",
+            "order_no": 0,
+            "action_title": "What’s in it for me? Attune yourself to a life of success and help others as you do it."
+        },
+        {
+            "id": "5d132a2f6cee07000880dc28",
+            "order_no": 1,
+            "action_title": "Maintaining perspective and practicing self-discipline will help you to lead a successful and happy life."
+        },
+        {
+            "id": "5d132a866cee07000880dc29",
+            "order_no": 2,
+            "action_title": "For a happier life, be honest with other people and learn how to deal positively with failure."
+        },
+        {
+            "id": "5d132aa06cee070007d74bc3",
+            "order_no": 3,
+            "action_title": "A meaningful life entails focusing on what’s essential, but don’t forget to reward yourself with regular breaks."
+        },
+        {
+            "id": "5d132abc6cee07000880dc2a",
+            "order_no": 4,
+            "action_title": "Remember how to enjoy life by imitating children and by taking good care of your body."
+        },
+        {
+            "id": "5d132ad56cee070007d74bc4",
+            "order_no": 5,
+            "action_title": "Remember that since life is a process, focusing solely on goals may be counterproductive."
+        },
+        {
+            "id": "5d132aec6cee07000880dc2b",
+            "order_no": 6,
+            "action_title": "Recognize the value of time and learn to control your emotional reactions."
+        },
+        {
+            "id": "5d132b016cee070007d74bc5",
+            "order_no": 7,
+            "action_title": "Connecting with nature and making use of your commute will ensure happiness and success."
+        },
+        {
+            "id": "5d132b1f6cee07000880dc2c",
+            "order_no": 8,
+            "action_title": "Rather than complaining, focus actively on what you can bring to the world."
+        },
+        {
+            "id": "5d132b306cee070007d74bc6",
+            "order_no": 9,
+            "action_title": "Final summary"
+        }
+    ],
+    "current_chapter_id": "5d132a2f6cee07000880dc28"
+}

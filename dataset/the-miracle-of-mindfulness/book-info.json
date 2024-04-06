@@ -1,0 +1,84 @@
+{
+    "book": {
+        "id": "5c84cc076cee07000738ba83",
+        "slug": "the-miracle-of-mindfulness-en",
+        "title": "The Miracle of Mindfulness",
+        "author": "Thich Nhat Hanh",
+        "time": 20,
+        "cover": {
+            "default": {
+                "src": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/470.jpg",
+                "srcset": {
+                    "2x": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/640.jpg"
+                }
+            },
+            "sources": [
+                {
+                    "media": "xs",
+                    "src": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/470.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/640.jpg"
+                    }
+                },
+                {
+                    "media": "s",
+                    "src": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/640.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/1080.jpg"
+                    }
+                },
+                {
+                    "media": "m",
+                    "src": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/250.jpg",
+                    "srcset": {
+                        "2x": "https://images.blinkist.io/images/books/5c84cc076cee07000738ba83/1_1/470.jpg"
+                    }
+                }
+            ]
+        },
+        "freeDaily": false
+    },
+    "chapters": [
+        {
+            "id": "5c84cc4a6cee070008d612a5",
+            "order_no": 0,
+            "action_title": "What’s in it for me? The present is a gift."
+        },
+        {
+            "id": "5c84cc5d6cee07000738ba84",
+            "order_no": 1,
+            "action_title": "Live each moment of your life by keeping your mind on the task at hand."
+        },
+        {
+            "id": "5c84cc716cee070008d612a6",
+            "order_no": 2,
+            "action_title": "Start to practice mindfulness by breathing in a mindful way."
+        },
+        {
+            "id": "5c84cc8f6cee07000738ba85",
+            "order_no": 3,
+            "action_title": "Devote one day a week to practicing total mindfulness."
+        },
+        {
+            "id": "5c84ccaa6cee070008d612a7",
+            "order_no": 4,
+            "action_title": "Meditate on how everything is connected and let go of suffering."
+        },
+        {
+            "id": "5c84ccbf6cee07000738ba86",
+            "order_no": 5,
+            "action_title": "To practice mindfulness, we need to be vigilant and fully awake."
+        },
+        {
+            "id": "5c84ccd66cee070008d612a8",
+            "order_no": 6,
+            "action_title": "Start meditating by imagining yourself as a pebble and a newborn baby."
+        },
+        {
+            "id": "5c84cce96cee07000738ba87",
+            "order_no": 7,
+            "action_title": "Final summary"
+        }
+    ],
+    "current_chapter_id": "5c84cce96cee07000738ba87"
+}
